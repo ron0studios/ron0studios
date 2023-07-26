@@ -1,10 +1,7 @@
 ### Hey there! I am an avid learner with a passion for computer science!
 ---
 > I am currently in year 12 pursuing AI, web development and theoretical algorithms.
-
-# Projects that I have worked on
----
-
+> Currently, I am proficient in c++, python, godot and javascript/VueJS. I am learning how to better use Pytorch
 
 
 
