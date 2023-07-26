@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there! I am an avid learner with a passion for computer science!
+---
+> I am currently in year 12 pursuing AI, web development and theoretical algorithms.
+
+# Projects that I have worked on
+---
+
+
+
 
 <!--
 **ron0studios/ron0studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
