@@ -1,4 +1,4 @@
-### Rudrrayan (Rono) Manna
+### Rudrrayan Manna (Rono)
 ---
 > Low-level performance engineer. GPUs (and LPUs!)
 >
