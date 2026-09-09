@@ -5,3 +5,5 @@
 > Working at Groq (now NVIDIA)
 > 
 > 2nd year CS student at the University of Southampton
+
+lost a huge amount of commits (~300) between Feb-Sep 2026 :-/
